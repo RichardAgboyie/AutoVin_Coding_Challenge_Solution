@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AutoVin_Code_Challenge.Infrastructure\AutoVin_Code_Challenge.Infrastructure.csproj" />
+    <ProjectReference Include="..\AutoVin_Code_Challenge.Shared\AutoVin_Code_Challenge.Shared.csproj" />
+  </ItemGroup>
+
+</Project>
